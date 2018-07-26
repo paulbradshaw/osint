@@ -11,6 +11,8 @@ Uses of LinkedIn for journalists:
 
 **[Profile viewing options](https://www.linkedin.com/me/profile-views/urn:li:wvmp:summary/)** allow you to switch to a **Private mode** when looking at other profiles so others don't know you looked: find this on the homepage, upper right after clicking *[Who's viewed my profile](https://www.linkedin.com/me/profile-views/urn:li:wvmp:summary/)*
 
+You can find these by clicking on 'Me' in the upper menu, selecting *Settings and privacy*, then [switching to the *Privacy* tab](https://www.linkedin.com/psettings/privacy). Scroll down to *How others see your LinkedIn activity* and change the settings there.
+
 ## Advanced search
 
 *Clear any filters across the top first*
