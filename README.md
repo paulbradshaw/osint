@@ -7,4 +7,5 @@ This repo (folder) contains resources related to open source intelligence (OSINT
 * Michael Bazzell is the key author in this field - [find his books here](https://www.amazon.co.uk/Michael-Bazzell/e/B007GNUI92)
 * Paul Myers is a key trainer - his website [Research Clinic](http://researchclinic.net/) has various resources
 * Neil Smith is another OSINT trainer with a police background. His website is [Qwarie](http://www.uk-osint.net/). You can [watch a video I filmed with Neil way back in 2012 here](https://www.youtube.com/watch?v=pDePNEkiBds)
+* Mark Monday is a US OSINT trainer: his website is [The Research School](http://theresearchschool.com/)
 * I keep an ongoing list of [OSINT-related bookmarks here](https://pinboard.in/u:paulbradshaw/t:osint)
